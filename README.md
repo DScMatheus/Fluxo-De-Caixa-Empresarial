@@ -18,3 +18,5 @@ O repositório contém três arquivos em anexo, que são: o arquivo Excel para e
 Para obter o melhor desempenho do projeto, recomendo que a apresentação seja lida antes de executar o arquivo Excel, pois assim você terá um entendimento mais profundo de cada planilha e suas funções. 
 
 Ao entrar no Excel, clique na opção "Habilitar Conteúdo" para ativar as macros e garantir que o projeto funcione corretamente. Caso haja alguma dúvida, estou à disposição para ajudar.
+
+É altamente recomendável utilizar o Excel em Português para que as fórmulas funcionem corretamente. 
